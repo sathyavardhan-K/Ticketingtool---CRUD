@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "teamname": "IT Team",
+    "members": [
+      "Sathya",
+      "Ram"
+    ]
+  },
+  {
+    "id": 2,
+    "teamname": "IT Team",
+    "members": [
+      "Sathya",
+      "Ram"
+    ]
+  },
+  {
+    "id": 3,
+    "teamname": "IT Team1",
+    "members": [
+      "Sathya",
+      "Raja"
+    ]
+  }
+]

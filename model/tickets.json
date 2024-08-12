@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "desktop Issue",
+    "description": "Not Working",
+    "team": "IT Team",
+    "status": "solved",
+    "assignee": "sam",
+    "reporter": "deva"
+  },
+  {
+    "id": 2,
+    "title": "desktop Issue",
+    "description": "Not Working",
+    "team": "Admin Team",
+    "status": "in-progress",
+    "assignee": "sam",
+    "reporter": "deva"
+  },
+  {
+    "id": 3,
+    "title": "desktop Issue",
+    "description": "Not Working",
+    "team": "Admin Team",
+    "status": "open",
+    "assignee": "ravi",
+    "reporter": "deva"
+  }
+]

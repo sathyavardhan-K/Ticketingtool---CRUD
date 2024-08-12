@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Sathyavardhan",
+      "lastName": "K",
+      "emailId": "saty@gmail.com",
+      "phoneNumber": "7894566120",
+      "employeeId": "1",
+      "designation": "Full-Stack Dev",
+      "teamId": "3"
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "teamname": "IT Team",
+      "members": [
+        "raja",
+        "madhan",
+        "balu"
+      ]
+    }
+  ],
+  "tickets": [
+    {
+      "id": 1,
+      "title": "Hiring Issue",
+      "description": "Not yet started",
+      "team": "HR Team",
+      "status": "resolved",
+      "assignee": "raghul",
+      "reporter": "deva"
+    },
+    {
+      "id": 2,
+      "title": "Admin issue",
+      "description": "Tool is not working",
+      "team": "Admin Team",
+      "status": "in-progress",
+      "assignee": "ramu",
+      "reporter": "deva"
+    }
+  ]
+}
